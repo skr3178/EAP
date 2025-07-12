@@ -1,5 +1,8 @@
+
+Jewel Thief Circuit found in most electric mosquito zappers (though present in the device, transformer not included in the simulation)
 ![Demo Animation](ani1.gif)
 
+cockroft-walton voltage multiplier circuit python for voltage amplification
 ![Demo Animation2](ani2.gif)
 
 
