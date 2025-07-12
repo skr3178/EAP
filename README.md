@@ -1,4 +1,10 @@
+![Demo Animation](ani1.gif)
+
+![Demo Animation2](ani2.gif)
+
+
 # electrostatic-adhesion-plate
+
 
 #### Motivation
 
